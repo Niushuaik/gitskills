@@ -1,4 +1,4 @@
  Creating a new branch is quick AND simple.
 Creating a new branch is quick AND simple.
 create new branch dev 
-ready for solving bug 
+has solved bug 
